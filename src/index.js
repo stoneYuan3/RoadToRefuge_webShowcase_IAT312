@@ -5,7 +5,7 @@ import reportWebVitals from './reportWebVitals';
 
 import {App, NavMain} from './App';
 
-import { Home } from './pages/general';
+import { Home,Members } from './pages/general';
 import Gdd from './pages/gdd';
 
 import {
@@ -23,7 +23,7 @@ root.render(
         <Route path="/" element={<NavMain />}>
           <Route index element={<App content={ <Home /> } />} />
           <Route path="GDD" element={<App content={ <Gdd /> } />} />
-          <Route path="members" element={<App content={ <Gdd /> } />} />
+          <Route path="members" element={<App content={ <Members /> } />} />
 
         </Route>
       </Routes>

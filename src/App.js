@@ -7,6 +7,7 @@ import { Link, Outlet } from "react-router-dom";
 export const NavMain = () => {
   return (
     <>
+    <div className='flex flex-column flex-full'>
     <header className="flex">
         <nav className="flex nav_main">
             <div className="logo">
@@ -26,6 +27,8 @@ export const NavMain = () => {
         </nav>
     </header>
     <Outlet />
+
+    </div>
     </>
   );
 }

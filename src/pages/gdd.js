@@ -15,8 +15,8 @@ const titles={
 
 const GddNav = () => {
     return (
-    <div className="flex flex-column nav_gddToc">
-        <div className="flex flex-column nav_gddToc_body">
+    <div className="flex nav_gddToc">
+        <div className="flex flex-full flex-column nav_gddToc_body">
             <h3>Table of Contents</h3>
             <ul>
                 <li>
@@ -58,7 +58,7 @@ const GddNav = () => {
 
 const GddMain = () => {
     return (
-        <div className="flex flex-column section_article_2column">
+        <div className="flex flex-full flex-column section_article_2column">
             <h1>Game Design Document</h1>
             <h2 id="s1">{titles.s1}</h2>
             <p><strong>Title: </strong>Road to Refuge</p>
@@ -173,7 +173,7 @@ const GddMain = () => {
 const Gdd = () => {
     return(
         <>  
-            <div className="flex flex-row">
+            <div className="flex section_2column_master flex-full">
                 <GddNav />
                 <GddMain />
             </div>
