@@ -1,13 +1,34 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+import {App, NavMain} from './App';
+
+import { Home } from './pages/general';
+import Gdd from './pages/gdd';
+
+import {
+  BrowserRouter,
+  Routes,
+  Route
+} from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<NavMain />}>
+          <Route index element={<App content={ <Home /> } />} />
+          <Route path="GDD" element={<App content={ <Gdd /> } />} />
+          <Route path="members" element={<App content={ <Gdd /> } />} />
+
+        </Route>
+      </Routes>
+    </BrowserRouter>
+
   </React.StrictMode>
 );
 
