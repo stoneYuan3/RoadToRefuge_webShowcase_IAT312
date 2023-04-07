@@ -44,7 +44,7 @@ export const Members = () => {
             </li>
             <li>
                 <strong>Jack Yuan</strong>
-                <p>Final product in Tabletop Simulator, Website & Poster & Video,Idea Contribution, Playtest</p>
+                <p>Final product in Tabletop Simulator, Website & Poster & Video, Idea Contribution, Playtest</p>
             </li>      
         </ul>
       </div>
