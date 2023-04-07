@@ -27,7 +27,7 @@ export const Members = () => {
             </li>
             <li>
                 <strong>Adrian Fung</strong>
-                <p>Idea Contribution, Early Prototyping in Figma, Playtest</p>
+                <p>Idea Contribution, Early Prototyping in Figma, Playtest, Video Voiceover</p>
             </li>
             <li>
                 <strong>Maya Ramadhina</strong>
@@ -39,7 +39,7 @@ export const Members = () => {
             </li>
             <li>
                 <strong>Jack Yuan</strong>
-                <p>Idea Contribution, Playtest, Final product in Tabletop Simulator, Website</p>
+                <p>Final product in Tabletop Simulator, Website & Poster & Video,Idea Contribution, Playtest</p>
             </li>      
         </ul>
       </div>
