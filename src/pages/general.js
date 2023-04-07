@@ -4,10 +4,15 @@ export const Home = () => {
       <div className="flex flex-column section_article">
         <p className="p_intro">A tabletop game build for Spring 2023 IAT312 Foundations of Game Design, part of the fabulous Simon Fraser University School of Interactive Arts and Technology.</p>
 
+        <h2>Poster</h2>
         <figure id="poster">
             <img src="/img/poster.jpg" alt="game poster" />
-            <figcaption>Poster!</figcaption>
         </figure>
+
+        <h2>Trailer</h2>
+        <div className="section-vidBox">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/hmVrkuYbksY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
 
         <p>More Contents Coming!</p>
       </div>
