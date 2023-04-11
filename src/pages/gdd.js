@@ -77,8 +77,7 @@ const GddMain = () => {
             <h2 id="s8">{titles.s8}</h2>
             <h3>Innovation</h3>
             <p>
-            The project features a shared resource system where the entire group is required to collect a resource called story cards. These cards are used at checkpoints throughout the board, where all players have to stop at the checkpoint and can only continue if the entire group has a specific amount of story cards. Another way players can share resources is sharing their shop items. If a player is running low on energy, another play can gift them their food for them to replenish their energy.
-            </p>
+            The project features a shared resource system where the entire group is required to collect a resource called story cards. These cards are used at checkpoints throughout the board, where all players have to stop at the checkpoint and can only continue if the entire group has a specific amount of story cards. Another way players can share resources is sharing their shop items. If a player is running low on energy, another player can give their resources such as food to replenish their energy.</p>
             <p>
             This leads to great people fun opportunities as players in this case are encouraged to talk with other players to strategize around when it is necessary to land on a story tile or if someone needs to buy food to keep another player alive. This also leads to potential dilemmas where players may need to sacrifice their own interest to help other players who might be in more urgent need. 
             </p>
@@ -102,7 +101,7 @@ const GddMain = () => {
 
             <h3>Selling Points</h3>
             <p>
-            The shared resources mechanism makes the game a fun social game that could be used for friends to enjoy together or for people to know each other better as they are required to collaborate on the distribution of resources. The game would work well in both casual friend meetings, ice breaker activities and educational settings where groups of students may play it together in classes that talk about the brutality of war. 
+            The shared resources mechanism makes the game a fun social game that could be used for friends to enjoy together or for people to know each other better as they are required to collaborate on the distribution of resources. The game would work well in both casual friend meetings, ice breaker activities and educational settings where groups of students may play it together in classes that talk about the brutality of war.  
             </p>
             <p>
             The story cards which reveal a unique story about the character and it promotes empathy and understanding as it encourages the players to put themselves in the shoes of refugees and understand their struggle and journey which can help promote empathy and understanding towards the global issue. It is also a interactive storytelling which allows the players to connect with the characters and their stories.
@@ -133,7 +132,7 @@ const GddMain = () => {
             <strong>Checkpoints and Story cards:</strong> Story cards tell stories about each character in the game. There are checkpoints tiles in the game where it is required for the group of players to have a certain amount of story cards in order to proceed.
             </p>
             <figure>
-                <img src="/img/gdd/gameBoard.png" alt="game board" />
+                <img src="/img/gdd/gameBoard2.png" alt="game board" />
             </figure>
 
             <h3>Unique Elements</h3>
@@ -142,18 +141,18 @@ const GddMain = () => {
 
             <h2 id="s10">{titles.s10}</h2>
             <p>The story begins after the second invasion hits the country and people are finding their way out of the war zone to seek asylum. 2 different families, both with the same goal, accidentally meet as they are fighting to escape and get out.&nbsp;</p>
-            <p>Sarah and Emma are both sisters who only have each other to lean on. They lost their mother when a missile hit the house during the first invasion of the war. Their dad, who was angry, wanted to fight in the front line to fight the invaders to protect his country and the people he loves. Sarah wanted to stay and begged Emma to wait for their father so they could give him a family to come back to. Sarah lost her mother at a young age, and refused to lose any more of her family. Weeks after the first invasion passed by, the food ran out, and they were starved until someone offered Emma supplies of food. It goes on for a while and she was grateful, until the same man who had gotten her and her sister out of starvation sexually assaulted her. Not long after, they received a letter from their father who rushed them to leave upon hearing the news of a second invasion. However, as the letter provided no context about another invasion, the sisters refused to leave. That is when the second attack finally hits their country. Emma, who has suffered deeply from loss, war, and rape, at the young age of 18, now has to fight and is determined to find a safer life for Sarah.&nbsp;</p>
-            <p>Anna is a pregnant mother in her second trimester, who lost her daughter in the initial invasion of the war. It left their family shattered and Anna couldn&rsquo;t deal with the loss. Her husband couldn&rsquo;t leave while the country was under martial law and Anna was scared to escape without him while bringing their 8 years old son, Alex, along. That is until the second invasion hit and Anna&rsquo;s husband persuaded her to escape. Anna who was still grieving forced herself to get up and pack her bag. She had no chance to bury the body of her daughter and she still suffers greatly. But she knows that she wouldn&rsquo;t be able to cope and survive if she lost another one of her children to this war.</p>
+            <p>Sarah and Emma are both sisters who only have each other to lean on. They lost their mother when a missile hit the house during the first invasion of the war. Their dad, who was angry, wanted to fight in the front line to fight the invaders to protect his country and the people he loves. Sarah wanted to stay and begged Emma to wait for their father so they could give him a family to come back to. Sarah lost her mother at a young age, and refused to lose any more of her family. Weeks after the first invasion passed by, the food ran out, and they were starved until someone offered Emma supplies of food. It goes on for a while and she was grateful, until the same man who had gotten her and her sister out of starvation sexually assaulted her. Not long after, they received a letter from their father who rushed them to leave upon hearing the news of a second invasion. However, as the letter provided no context about another invasion, the sisters refused to leave. That is when the second attack finally hits their country. Emma, who has suffered deeply from loss, war, and rape, at the young age of 18, now has to fight and is determined to find a safer life for Sarah. </p>
+            <p>Anna is a pregnant mother in her second trimester, who lost her daughter in the initial invasion of the war. It left their family shattered and Anna couldn’t deal with the loss. Her husband couldn’t leave while the country was under martial law and Anna was scared to escape without him while bringing their 8 years old son, Alex, along. That is until the second invasion hit and Anna’s husband persuaded her to escape. Anna who was still grieving forced herself to get up and pack her bag. She had no chance to bury the body of her daughter and she still suffers greatly. But she knows that she wouldn’t be able to cope and survive if she lost another one of her children to this war.</p>
             <p>Brought by destiny, Sarah, Emma, Anna, and Alex met while being on their way to escape. With their own stories, flaws, and limitations, they can now help and lean on each other to find their way to a safer place.</p>
 
             <h2 id="s11">{titles.s11}</h2>
             <figure>
-                <img src="/img/gdd/gameMechanics.png" alt="game board with legends and mechanic descriptions" />
+                <img src="/img/gdd/gameMechanics2.png" alt="game board with legends and mechanic descriptions" />
             </figure>
             <p>Image above shows our latest game map board. The game is meant to be played with specifically 4 players, one for each character in the game. Road to Refuge is meant for players who enjoy cooperation while also wanting to learn a bit more about the refugee crisis or some struggles refugees face that may not be well known.&nbsp;</p>
             <p>The game is like a journey or a story, and the goal is to progress from the starting tile to the end with everyone alive. Players will face challenges along the way, such as managing energy and acquiring negative effects from event tiles, and meeting checkpoints. Most challenges come in types of tiles on the board. The random event tile can give players negative effects such as illness, injury, and anxiety. The campfire tile will give players story cards, which will be required to pass checkpoint tiles. Money tiles give you money to spend on the shop tiles. The shop includes items such as food to replenish energy and treatments to the three negative effects.</p>
-            <p>Players move by rolling a 4-sided die, if players roll 1-3, they move the amount they rolled. If players roll a 4, they have to stay on their current tile. Players can choose exactly how much they move. For example, if a player rolls a 3, they can move up to 3 tiles, meaning they can choose to only move 1 tile if they wish.</p>
-            <p>This is a team game, so many resources are shared. All shop items can be gifted to other players. Movement also be gifted to other players. Gifted movement is one tile less effective. For example, if one player rolls a 4, they cannot move, but another player who rolled a 3 can give their roll and the player who rolled a 4 can now move 2 tiles. Story cards are also shared among the entire group. For the first checkpoint, only one person needs to have an Anna or Alex story card for the entire group to pass.</p>
+            <p>Players move by rolling a 4-sided die, if players roll 1-3, they move the amount they rolled. If players roll a 0, they have to stay on their current tile. Players can choose exactly how much they move. For example, if a player rolls a 3, they can move up to 3 tiles, meaning they can choose to only move 1 tile if they wish.</p>
+            <p>This is a team game, so many resources are shared. All shop items can be gifted to other players. Movement also be gifted to other players. Gifted movement is one tile less effective. For example, if one player rolls a 0, they cannot move, but another player who rolled a 3 can give their roll and the player who rolled a 0 can now move 2 tiles. Story cards are also shared among the entire group. For the first checkpoint, only one person needs to have an Anna or Alex story card for the entire group to pass.</p>
             <p>Players win when they reach the end with all members alive.</p>
 
             <h2 id="s12">{titles.s12}</h2>
@@ -164,7 +163,7 @@ const GddMain = () => {
             
             <h2 id="s13">{titles.s13}</h2>
             <p>Submitted as PDF, can also be accessed at:</p>
-            <a href="https://drive.google.com/drive/u/1/folders/1HWVz8youGVTUycrl3r3-_ZmHLcPEzwIr ">Google Drive Link</a>
+            <a className="link-intext" href="https://drive.google.com/drive/u/1/folders/1HWVz8youGVTUycrl3r3-_ZmHLcPEzwIr ">Google Drive Link</a>
 
         </div>
     );
